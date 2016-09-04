@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CollectionOfJokes</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="jokes_picture">图片笑话</string>
+    <string name="jokes_text">爆笑段子</string>
+
+</resources>
