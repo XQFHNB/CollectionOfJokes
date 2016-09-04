@@ -25,8 +25,8 @@ public class Loader_AsyncImage {
     /**
      * 同样是回调，看看人家是怎么用的，怎么在具体的非构造方法中使用回调
      *
-     * @param url
-     * @param sucessCallback
+     * @param url 传入图片地址
+     * @param sucessCallback 回调
      * @return
      */
     public Drawable load_From_Url(final String url,
